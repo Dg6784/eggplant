@@ -1,0 +1,6 @@
+﻿DoubleClick "Edge"
+Click imageName:"searchField.png", waitFor:10
+TypeText "hello world program"
+TypeText return
+Click text:"Hello,_world! program"
+put FoundImageInfo()

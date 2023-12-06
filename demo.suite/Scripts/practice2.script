@@ -1,0 +1,16 @@
+﻿DoubleClick "Launch_Edge.png" 
+//Click imageName:"searchField.png", waitFor:10
+TypeText "sdet technologies"
+TypeText return
+Click imageName:"sdetUrl.png", waitFor:10
+Repeat until ImageFound(ImageName:"Sdet_Image", waitfor:5) 
+	TypeText PageDown 
+	if the repeatindex is greater than 5 then throw "Image Not Found:", "Item not found when scrolling."
+end repeat
+
+
+
+
+
+
+

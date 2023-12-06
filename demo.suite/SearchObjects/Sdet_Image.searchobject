@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		36,
+		336,
+		490,
+		372
+	],
+	"lastmodifieddate": 1701888122.8930001,
+	"createddate": 1701888122.8930001,
+	"name": "Sdet_Image",
+	"lastfounddate": 1701888792.198,
+	"ocrcapturestring": "© c  • • oo» ■ » ♦ ♦ Software Quality Enthusiast • / • I\t ’\t\tlx \\ V * Pii sdl 11 J* IV ■v* r^p\tI I f We-# l/V > • * * —•  , La-*' L\tLL fS • • . •  rr A ' J > . ■■",
+	"lastfoundlocation": [
+		59,
+		123,
+		490,
+		372
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[245,186]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Sdet_Image.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"connectionserverid": "192.168.1.19",
+				"capturerect": [
+					36,
+					336,
+					490,
+					372
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "© c  • • oo» ■ » ♦ ♦ Software Quality Enthusiast • / • I\t ’\t\tlx \\ V * Pii sdl 11 J* IV ■v* r^p\tI I f We-# l/V > • * * —•  , La-*' L\tLL fS • • . •  rr A ' J > . ■■"
+			}
+	]
+}

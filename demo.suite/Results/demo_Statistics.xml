@@ -1,12 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
- <script name="current_date">
+ <script name="practice2">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2023-12-07 00:02:28 +0530</FirstRun>
+  <LastRun>2023-12-07 00:22:46 +0530</LastRun>
+  <TotalTimeOnSuccess>50.385000</TotalTimeOnSuccess>
+ </script>
+ <script name="Functions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
   <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2023-12-06 17:55:44 +0530</FirstRun>
-  <LastRun>2023-12-06 19:12:16 +0530</LastRun>
-  <TotalTimeOnSuccess>0.472000</TotalTimeOnSuccess>
+  <FirstRun>2023-12-06 19:54:30 +0530</FirstRun>
+  <LastRun>2023-12-06 23:26:22 +0530</LastRun>
+  <TotalTimeOnSuccess>29.884000</TotalTimeOnSuccess>
+ </script>
+ <script name="read_text">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>15</NumberOfFails>
+  <FirstRun>2023-12-06 10:35:37 +0530</FirstRun>
+  <LastRun>2023-12-06 17:44:25 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="practice1">
   <LastStatus>Success</LastStatus>
@@ -16,12 +32,12 @@
   <LastRun>2023-12-06 16:06:27 +0530</LastRun>
   <TotalTimeOnSuccess>248.720000</TotalTimeOnSuccess>
  </script>
- <script name="read_text">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>15</NumberOfRuns>
-  <NumberOfFails>15</NumberOfFails>
-  <FirstRun>2023-12-06 10:35:37 +0530</FirstRun>
-  <LastRun>2023-12-06 17:44:25 +0530</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ <script name="current_date">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-12-06 17:55:44 +0530</FirstRun>
+  <LastRun>2023-12-06 19:38:36 +0530</LastRun>
+  <TotalTimeOnSuccess>1.071000</TotalTimeOnSuccess>
  </script>
 </statistics>

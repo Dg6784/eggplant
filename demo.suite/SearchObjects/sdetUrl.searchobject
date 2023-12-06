@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		162,
+		218,
+		640,
+		133
+	],
+	"lastmodifieddate": 1701888164.368,
+	"createddate": 1701888164.368,
+	"name": "sdetUrl",
+	"lastfounddate": 1701888776.6760001,
+	"ocrcapturestring": "© sdettech.com https://sdettech.com * Testing Company | Al Enabled Solutions | SDETTech web SDET Tech is one of the best Software Testing services companies helping clients across the globe. For comprehensive software testing solutions contact our experts.",
+	"lastfoundlocation": [
+		214,
+		273,
+		640,
+		133
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[320,66]",
+					"Tolerance": "_72",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "sdetUrl.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"connectionserverid": "192.168.1.19",
+				"capturerect": [
+					162,
+					218,
+					640,
+					133
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "© sdettech.com https://sdettech.com * Testing Company | Al Enabled Solutions | SDETTech web SDET Tech is one of the best Software Testing services companies helping clients across the globe. For comprehensive software testing solutions contact our experts."
+			}
+	]
+}

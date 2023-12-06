@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		166,
+		275,
+		303,
+		60
+	],
+	"lastmodifieddate": 1701873254.4419999,
+	"createddate": 1701873254.4419999,
+	"name": "EggplantIDocumentationwebEggpltext",
+	"lastfounddate": 1701873264.71,
+	"ocrcapturestring": "Eggplant I Documentation web Eggplant | Documentation. Eggplant Func",
+	"lastfoundlocation": [
+		166,
+		275,
+		303,
+		60
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[151,30]",
+					"Tolerance": "_72",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "EggplantIDocumentationwebEggpltext.png",
+				"connectionname": "192.168.0.85",
+				"type": 1,
+				"connectionserverid": "192.168.0.85",
+				"capturerect": [
+					166,
+					275,
+					303,
+					60
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Eggplant I Documentation web Eggplant | Documentation. Eggplant Func"
+			}
+	]
+}

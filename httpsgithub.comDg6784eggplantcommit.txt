@@ -1,0 +1,12 @@
+https://github.com/Dg6784/eggplant/commit/18b4b9459da1cc9e64be3e415fcd31deed5efd1a
+https://github.com/Dg6784/eggplant/commit/377370c5ff8a0951eeb509c2965a063ea85692f1
+
+
+
+echo "# p" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Dg6784/p.git
+  git push -u origin main
