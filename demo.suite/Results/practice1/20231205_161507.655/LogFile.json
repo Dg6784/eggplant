@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running practice.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 16:15:07.672 +0530"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 16:15:26.563 +0530",
+				"scriptName": "practice.script",
+				"message": "No Image Found On Screen: \"image0006\"",
+				"image": "image0006",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"18.979\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-05 16:15:07 +0530\", Successes:\"0\", TestCase:\"practice.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 16:15:26.658 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:19 practice.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-05 16:15:26.670 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 16:15:07.677 +0530"
+}

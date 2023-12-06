@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		259,
+		193,
+		24,
+		24
+	],
+	"lastmodifieddate": 1701772998.3070002,
+	"createddate": 1701696504.536,
+	"name": "searxhIxon",
+	"lastfounddate": 1701696577.9720001,
+	"ocrcapturestring": "Q",
+	"lastfoundlocation": [
+		259,
+		193,
+		24,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[106,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "searxhIxon.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					259,
+					193,
+					24,
+					24
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q"
+			}
+	]
+}

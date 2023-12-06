@@ -1,0 +1,14 @@
+﻿2023-12-06 16:06:27.429 +0530	START		Running practice1.script
+2023-12-06 16:06:27.904 +0530	doubleclick	Edge	at (45, 189)	1	on_practice1	practice1.script
+2023-12-06 16:06:28.725 +0530	click	searchField.png	at (362, 117)	2	on_practice1	practice1.script
+2023-12-06 16:06:29.583 +0530	typetext		flipkart.com	3	on_practice1	practice1.script
+2023-12-06 16:06:30.302 +0530	typetext		[return]	4	on_practice1	practice1.script
+2023-12-06 16:06:32.952 +0530	imagefound	FlipkartExplorePlusO_Title.png	found at (190, 163)	5	on_practice1	practice1.script
+2023-12-06 16:06:32.961 +0530	LogSuccess		Succesfullly find the flipkart logo	6	on_practice1	practice1.script
+2023-12-06 16:06:33.180 +0530	click	Login_BUTTON.png	at (833, 167)	8	on_practice1	practice1.script
+2023-12-06 16:06:36.234 +0530	click	EnterEmailMobilenumber.png	at (619, 318)	9	on_practice1	practice1.script
+2023-12-06 16:06:37.062 +0530	typetext		6386980640	10	on_practice1	practice1.script
+2023-12-06 16:06:37.885 +0530	click	RequestOTP.png	at (726, 433)	11	on_practice1	practice1.script
+2023-12-06 16:06:38.599 +0530	typetext		[return]	12	on_practice1	practice1.script
+2023-12-06 16:06:40.626 +0530	EndTestCase		(Duration:"13.188", Errors:"0", Exceptions:"0", StartTime:"2023-12-06 16:06:27 +0530", Successes:"1", TestCase:"practice1.script", Warnings:"0")
+2023-12-06 16:06:40.683 +0530	SUCCESS		Execution Time 0:00:13 practice1.script

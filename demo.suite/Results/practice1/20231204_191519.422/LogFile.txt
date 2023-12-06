@@ -1,0 +1,4 @@
+﻿2023-12-04 19:15:19.433 +0530	START		Running Untitled.script
+2023-12-04 19:15:19.510 +0530	Exception		Remote Connection Unavailable	1	on_untitled	Untitled.script
+2023-12-04 19:15:19.537 +0530	EndTestCase		(Duration:"0.093", Errors:"1", Exceptions:"1", StartTime:"2023-12-04 19:15:19 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2023-12-04 19:15:19.588 +0530	FAILURE		No Remote Connection: imagelocation Error - Remote Connection Unavailable -- Execution Time 0:00:00 Untitled.script

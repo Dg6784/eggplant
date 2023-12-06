@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701780664.8369999,
+	"lastfoundlocation": [
+		243,
+		201,
+		140,
+		142
+	],
+	"originalcapturelocation": [
+		243,
+		201,
+		140,
+		142
+	],
+	"createddate": 1701780664.8369999,
+	"lastfounddate": 1701780665.826,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[70,71]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "tree.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"capturerect": [
+					243,
+					201,
+					140,
+					142
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.13"
+			}
+	],
+	"name": "tree"
+}

@@ -1,0 +1,63 @@
+{
+	"entries": [
+		{
+				"message": "Running practice1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 15:30:39.316 +0530"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:30:39.764 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (45, 189)",
+				"image": "Edge",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:30:40.886 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (352, 107)",
+				"image": "searchField.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:30:41.743 +0530",
+				"message": "flipkart.com",
+				"scriptName": "practice1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:30:42.462 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:30:45.325 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (823, 157)",
+				"image": "Login_BUTTON.png",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"8.031\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-06 15:30:39 +0530\", Successes:\"1\", TestCase:\"practice1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 15:30:47.354 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:08 practice1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-06 15:30:47.417 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 15:30:39.321 +0530"
+}

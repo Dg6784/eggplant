@@ -1,0 +1,3 @@
+﻿2023-12-06 10:43:26.188 +0530	START		Running read_text.script
+2023-12-06 10:43:26.267 +0530	EndTestCase		(Duration:"0.074", Errors:"1", Exceptions:"0", StartTime:"2023-12-06 10:43:26 +0530", Successes:"0", TestCase:"read_text.script", Warnings:"0")
+2023-12-06 10:43:26.413 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'openbrowser' -- Execution Time 0:00:00 read_text.script

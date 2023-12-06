@@ -1,0 +1,145 @@
+﻿DoubleClick "Edge"
+Click imageName:"searchField.png", waitFor:10
+TypeText "flipkart.com"
+TypeText return
+If ImageFound("FlipkartExplorePlusO_Title.png") then 
+	LogSuccess "Succesfullly find the flipkart logo"
+End If
+Click imageName:"Login_BUTTON.png", waitFor:3
+Click imageName:"EnterEmailMobilenumber.png", waitFor:4
+TypeText "6386980640"
+Click imageName:"RequestOTP.png", waitFor:2
+TypeText return 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wait 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+

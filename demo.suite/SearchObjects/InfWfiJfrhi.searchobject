@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		7,
+		201,
+		62,
+		88
+	],
+	"lastmodifieddate": 1701772985.6859999,
+	"createddate": 1701699201.6900001,
+	"name": "InfWfiJfrhi",
+	"lastfounddate": 1701699275.322,
+	"ocrcapturestring": "InfWfiJfrhi",
+	"lastfoundlocation": [
+		7,
+		201,
+		62,
+		88
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[31,44]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "InfWfiJfrhi.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					7,
+					201,
+					62,
+					88
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "InfWfiJfrhi"
+			}
+	]
+}

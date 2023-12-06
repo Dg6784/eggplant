@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 14:21:54.408 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-12-05 14:21:54.606 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (307, 335)",
+				"image": "image0005",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-12-05 14:21:55.456 +0530",
+				"message": "6386980640[windowsDown][windowsUp]",
+				"scriptName": "Untitled.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-12-05 14:22:18.370 +0530",
+				"scriptName": "Untitled.script",
+				"message": "No Image Found On Screen: \"RequestOTP\"",
+				"image": "RequestOTP",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"23.976\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-05 14:21:54 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 14:22:18.388 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"RequestOTP\" -- Execution Time 0:00:23 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-05 14:22:18.522 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 14:21:54.412 +0530"
+}

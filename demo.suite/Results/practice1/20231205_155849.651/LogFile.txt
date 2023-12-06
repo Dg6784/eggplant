@@ -1,0 +1,5 @@
+﻿2023-12-05 15:58:49.668 +0530	START		Running practice.script
+2023-12-05 15:58:50.044 +0530	typetext		http://www.example.com	1	on_practice	practice.script
+2023-12-05 15:58:50.763 +0530	typetext		[return]	2	on_practice	practice.script
+2023-12-05 15:58:50.788 +0530	EndTestCase		(Duration:"1.112", Errors:"0", Exceptions:"0", StartTime:"2023-12-05 15:58:49 +0530", Successes:"1", TestCase:"practice.script", Warnings:"0")
+2023-12-05 15:58:50.846 +0530	SUCCESS		Execution Time 0:00:01 practice.script

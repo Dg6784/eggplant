@@ -1,0 +1,3 @@
+﻿2023-12-05 15:39:50.170 +0530	START		Running practice.script
+2023-12-05 15:40:21.806 +0530	EndTestCase		(Duration:"31.627", Errors:"1", Exceptions:"0", StartTime:"2023-12-05 15:39:50 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 15:40:21.819 +0530	ABORTED		Execution Time 0:00:31 practice.script

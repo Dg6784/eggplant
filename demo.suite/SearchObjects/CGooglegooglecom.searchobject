@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		150,
+		116,
+		172,
+		19
+	],
+	"lastmodifieddate": 1701777064.813,
+	"createddate": 1701777064.813,
+	"name": "CGooglegooglecom",
+	"lastfounddate": 1701777064.974,
+	"ocrcapturestring": "C Google - google.com",
+	"lastfoundlocation": [
+		150,
+		116,
+		172,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[140,2]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "CGooglegooglecom.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					150,
+					116,
+					172,
+					19
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "C Google - google.com"
+			}
+	]
+}

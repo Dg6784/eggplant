@@ -1,0 +1,72 @@
+{
+	"lastmodifieddate": 1701780235.494,
+	"lastfoundlocation": [
+		5,
+		189,
+		80,
+		88
+	],
+	"originalcapturelocation": [
+		5,
+		189,
+		80,
+		88
+	],
+	"createddate": 1701779920.437,
+	"lastfounddate": 1701779920.5580001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[40,44]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Edge.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"capturerect": [
+					5,
+					189,
+					80,
+					88
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.13"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[40,44]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Edge.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"capturerect": [
+					5,
+					189,
+					80,
+					88
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.13"
+			}
+	],
+	"name": "Edge"
+}

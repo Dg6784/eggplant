@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running practice1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 15:28:21.628 +0530"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:28:22.120 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (45, 189)",
+				"image": "Edge",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:28:23.556 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (352, 107)",
+				"image": "searchField.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:28:24.416 +0530",
+				"message": "flipkart.com",
+				"scriptName": "practice1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 15:28:25.136 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"5.649\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-06 15:28:21 +0530\", Successes:\"1\", TestCase:\"practice1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 15:28:27.287 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 practice1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-06 15:28:27.343 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 15:28:21.636 +0530"
+}

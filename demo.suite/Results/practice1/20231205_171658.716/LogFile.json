@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running practice.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 17:16:58.738 +0530"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 17:16:59.051 +0530",
+				"scriptName": "practice.script",
+				"message": "at (30, 223)",
+				"image": "image0006",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 17:17:02.187 +0530",
+				"message": "google.com",
+				"scriptName": "practice.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 17:17:05.206 +0530",
+				"message": "[return]",
+				"scriptName": "practice.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 17:17:08.217 +0530",
+				"scriptName": "practice.script",
+				"message": "Could Not Open Image: QgooglecomPressITabItosearchGo",
+				"image": "QgooglecomPressITabItosearchGo",
+				"handlerLine": 10,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"9.483\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-05 17:16:58 +0530\", Successes:\"0\", TestCase:\"practice.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 17:17:08.235 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: QgooglecomPressITabItosearchGo -- Execution Time 0:00:09 practice.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-05 17:17:08.402 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 17:16:58.749 +0530"
+}

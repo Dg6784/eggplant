@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		481,
+		272,
+		258,
+		73
+	],
+	"lastmodifieddate": 1701856870.779,
+	"createddate": 1701856870.779,
+	"name": "EnterEmailMobilenumber",
+	"lastfounddate": 1701858996.1269999,
+	"ocrcapturestring": "Enter Email/Mobile number",
+	"lastfoundlocation": [
+		490,
+		282,
+		258,
+		73
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[129,36]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "EnterEmailMobilenumber.png",
+				"connectionname": "192.168.0.85",
+				"type": 1,
+				"connectionserverid": "192.168.0.85",
+				"capturerect": [
+					481,
+					272,
+					258,
+					73
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Enter Email/Mobile number"
+			}
+	]
+}

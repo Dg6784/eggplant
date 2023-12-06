@@ -1,0 +1,7 @@
+﻿2023-12-05 18:36:39.114 +0530	START		Running practice.script
+2023-12-05 18:36:39.470 +0530	doubleclick	Edge	at (45, 233)	1	on_practice	practice.script
+2023-12-05 18:36:41.491 +0530	click	searchField.png	at (343, 98)	2	on_practice	practice.script
+2023-12-05 18:36:42.345 +0530	typetext		flipkart.com	3	on_practice	practice.script
+2023-12-05 18:36:43.062 +0530	typetext		[return]	4	on_practice	practice.script
+2023-12-05 18:36:45.074 +0530	EndTestCase		(Duration:"5.956", Errors:"0", Exceptions:"0", StartTime:"2023-12-05 18:36:39 +0530", Successes:"1", TestCase:"practice.script", Warnings:"0")
+2023-12-05 18:36:45.118 +0530	SUCCESS		Execution Time 0:00:05 practice.script

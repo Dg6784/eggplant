@@ -1,0 +1,6 @@
+﻿2023-12-05 14:21:54.408 +0530	START		Running Untitled.script
+2023-12-05 14:21:54.606 +0530	doubleclick	image0005	at (307, 335)	2	on_untitled	Untitled.script
+2023-12-05 14:21:55.456 +0530	typetext		6386980640[windowsDown][windowsUp]	3	on_untitled	Untitled.script
+2023-12-05 14:22:18.370 +0530	Exception	RequestOTP	No Image Found On Screen: "RequestOTP"	4	on_untitled	Untitled.script
+2023-12-05 14:22:18.388 +0530	EndTestCase		(Duration:"23.976", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 14:21:54 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2023-12-05 14:22:18.522 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "RequestOTP" -- Execution Time 0:00:23 Untitled.script

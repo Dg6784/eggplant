@@ -1,0 +1,5 @@
+﻿2023-12-06 17:43:28.037 +0530	START		Running read_text.script
+2023-12-06 17:43:28.267 +0530	click	Imageclick	at (38, 118)	2	on_read_text	read_text.script
+2023-12-06 17:43:28.281 +0530	LogError		Text verification failed. Expected: Divyank, Captured: {CaptureDate:"2023-12-06 17:41:17 +0530", CaptureHost:"192.168.0.85", CaptureLocation:[4,75], CaptureScreenSize:["1280","1024"], Description:"", HotSpot:[34,43], ImageLocation:[38,118], ImageName:"Imageclick", ImagePath:"C:/Users/divyank.gupta/Documents/demo.suite/Images/Imageclick.png", ImageRectangle:[4,75,73,162], ImageSize:[69,87], Pulsing:"False", Scale:1, SearchType:"Tolerant of Background"}	9	on_read_text	read_text.script
+2023-12-06 17:43:28.314 +0530	EndTestCase		(Duration:"0.269", Errors:"1", Exceptions:"0", StartTime:"2023-12-06 17:43:28 +0530", Successes:"0", TestCase:"read_text.script", Warnings:"0")
+2023-12-06 17:43:28.524 +0530	FAILURE	Screen_Error.png	Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 read_text.script

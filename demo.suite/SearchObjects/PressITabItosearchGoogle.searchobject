@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		539,
+		81,
+		150,
+		14
+	],
+	"lastmodifieddate": 1701777050.3239999,
+	"createddate": 1701777050.3239999,
+	"name": "PressITabItosearchGoogle",
+	"lastfounddate": 1701777050.5209999,
+	"ocrcapturestring": "Press I Tab Ito search Google",
+	"lastfoundlocation": [
+		539,
+		81,
+		150,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[11,4]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "PressITabItosearchGoogle.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					539,
+					81,
+					150,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Press I Tab Ito search Google"
+			}
+	]
+}

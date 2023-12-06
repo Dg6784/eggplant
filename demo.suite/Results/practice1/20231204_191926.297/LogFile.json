@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 19:19:26.308 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-12-04 19:19:45.275 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Unable To Find Image \"micrisoftEdge\"",
+				"image": "micrisoftEdge",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"19.041\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-04 19:19:26 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 19:19:45.356 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:19 Untitled.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-04 19:19:45.370 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 19:19:26.313 +0530"
+}

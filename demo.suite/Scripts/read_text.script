@@ -1,0 +1,18 @@
+﻿// Click imageName:"Text_verify_newImage", waitFor:3
+Click "Imageclick"
+put ImageInfo("Imageclick").Text into capturedText
+put "Divyank" into expectedText
+
+if capturedText is expectedText then
+	Log "Text verification passed. Captured Text: " & capturedText
+else
+	LogError "Text verification failed. Expected: " & Divyank & ", Captured: " & capturedText
+end if
+
+
+
+
+
+
+
+

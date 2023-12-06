@@ -1,0 +1,114 @@
+{
+	"entries": [
+		{
+				"message": "Running practice1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:06:27.429 +0530"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:27.904 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (45, 189)",
+				"image": "Edge",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:28.725 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (362, 117)",
+				"image": "searchField.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:29.583 +0530",
+				"message": "flipkart.com",
+				"scriptName": "practice1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:30.302 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:32.952 +0530",
+				"scriptName": "practice1.script",
+				"message": "found at (190, 163)",
+				"image": "FlipkartExplorePlusO_Title.png",
+				"handlerLine": 5,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:32.961 +0530",
+				"message": "Succesfullly find the flipkart logo",
+				"scriptName": "practice1.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:33.180 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (833, 167)",
+				"image": "Login_BUTTON.png",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:36.234 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (619, 318)",
+				"image": "EnterEmailMobilenumber.png",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:37.062 +0530",
+				"message": "6386980640",
+				"scriptName": "practice1.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:37.885 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (726, 433)",
+				"image": "RequestOTP.png",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:06:38.599 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"13.188\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-06 16:06:27 +0530\", Successes:\"1\", TestCase:\"practice1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:06:40.626 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:13 practice1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-06 16:06:40.683 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:06:27.436 +0530"
+}

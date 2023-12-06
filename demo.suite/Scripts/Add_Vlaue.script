@@ -1,0 +1,9 @@
+﻿params  num1,num2
+
+-- Add the two parameters together
+put num1 + num2 into result
+
+-- Return the result
+return result
+
+

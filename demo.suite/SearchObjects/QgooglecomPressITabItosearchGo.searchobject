@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		127,
+		72,
+		586,
+		38
+	],
+	"lastmodifieddate": 1701772985.8730001,
+	"createddate": 1701772653.4790001,
+	"name": "QgooglecomPressITabItosearchGo",
+	"lastfounddate": 1701772665.043,
+	"ocrcapturestring": "(Q) google.com Press I Tab I to search Google",
+	"lastfoundlocation": [
+		127,
+		72,
+		586,
+		38
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[293,19]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "QgooglecomPressITabItosearchGo.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					127,
+					72,
+					586,
+					38
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "(Q) google.com Press I Tab I to search Google"
+			}
+	]
+}

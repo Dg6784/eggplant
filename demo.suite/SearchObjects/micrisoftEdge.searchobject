@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		11,
+		201,
+		58,
+		91
+	],
+	"lastmodifieddate": 1701772985.744,
+	"createddate": 1701696313.276,
+	"name": "micrisoftEdge",
+	"lastfounddate": 1701699275.3329999,
+	"ocrcapturestring": "iart«a»n«iii",
+	"lastfoundlocation": [
+		9,
+		199,
+		58,
+		91
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "micrisoftEdge.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					11,
+					201,
+					58,
+					91
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "iart«a»n«iii"
+			}
+	]
+}

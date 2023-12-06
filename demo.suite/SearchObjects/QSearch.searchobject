@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		203,
+		261,
+		622,
+		87
+	],
+	"lastmodifieddate": 1701772985.9400001,
+	"createddate": 1701772843.73,
+	"name": "QSearch",
+	"lastfounddate": 1701772860.556,
+	"ocrcapturestring": "Q.\t\t Search",
+	"lastfoundlocation": [
+		203,
+		261,
+		622,
+		87
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[311,43]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "QSearch.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					203,
+					261,
+					622,
+					87
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q.\t\t Search"
+			}
+	]
+}

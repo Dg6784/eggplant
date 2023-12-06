@@ -1,0 +1,4 @@
+﻿2023-12-05 15:10:57.385 +0530	START		Running practice.script
+2023-12-05 15:10:57.822 +0530	typetext		YourTextboxNameYourTextHere	12	on_practice	practice.script
+2023-12-05 15:10:57.846 +0530	EndTestCase		(Duration:"0.454", Errors:"0", Exceptions:"0", StartTime:"2023-12-05 15:10:57 +0530", Successes:"1", TestCase:"practice.script", Warnings:"0")
+2023-12-05 15:10:57.888 +0530	SUCCESS		Execution Time 0:00:00 practice.script

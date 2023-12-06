@@ -1,0 +1,106 @@
+{
+	"entries": [
+		{
+				"message": "Running practice1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:01:39.788 +0530"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:40.245 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (45, 189)",
+				"image": "Edge",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:41.353 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (352, 107)",
+				"image": "searchField.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:42.209 +0530",
+				"message": "flipkart.com",
+				"scriptName": "practice1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:42.927 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:44.783 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (823, 157)",
+				"image": "Login_BUTTON.png",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:47.074 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (608, 307)",
+				"image": "EnterEmailMobilenumber.png",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:47.904 +0530",
+				"message": "6386980640",
+				"scriptName": "practice1.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:48.736 +0530",
+				"scriptName": "practice1.script",
+				"message": "at (716, 423)",
+				"image": "RequestOTP.png",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:49.449 +0530",
+				"message": "[return]",
+				"scriptName": "practice1.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_practice1",
+				"timestamp": "2023-12-06 16:01:52.087 +0530",
+				"scriptName": "practice1.script",
+				"message": "Unable to Find Image FlipkartExplorePlusO_Title.png",
+				"image": "FlipkartExplorePlusO_Title.png",
+				"handlerLine": 11,
+				"identifier": "imagefound"
+			},
+		{
+				"message": "(Duration:\"14.314\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-06 16:01:39 +0530\", Successes:\"1\", TestCase:\"practice1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:01:54.109 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:14 practice1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-06 16:01:54.191 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:01:39.793 +0530"
+}

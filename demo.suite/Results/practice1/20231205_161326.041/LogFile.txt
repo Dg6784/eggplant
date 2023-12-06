@@ -1,0 +1,4 @@
+﻿2023-12-05 16:13:26.049 +0530	START		Running practice.script
+2023-12-05 16:13:40.861 +0530	Exception	image0006	No Image Found On Screen: "image0006"	1	on_practice	practice.script
+2023-12-05 16:13:40.953 +0530	EndTestCase		(Duration:"14.895", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 16:13:26 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 16:13:40.965 +0530	ABORTED		Execution Time 0:00:14 practice.script

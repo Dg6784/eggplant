@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running read_text.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:17:44.588 +0530"
+			},
+		{
+				"handlerName": "on_read_text",
+				"timestamp": "2023-12-06 16:17:44.681 +0530",
+				"message": "Text verification failed. Expected: Text Found Successfully, Captured: {CaptureDate:\"2023-12-06 16:14:34 +0530\", CaptureHost:\"192.168.0.85\", CaptureLocation:[12,77], CaptureScreenSize:[\"1280\",\"1024\"], Description:\"\", HotSpot:[27,32], ImageLocation:\"\", ImageName:\"Text_verify\", ImagePath:\"C:/Users/divyank.gupta/Documents/demo.suite/Images/Text_verify.png\", ImageRectangle:\"\", ImageSize:[54,64], Pulsing:\"False\", Scale:1, SearchType:\"Tolerant of Background\"}",
+				"scriptName": "read_text.script",
+				"handlerLine": 7,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"0.152\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-06 16:17:44 +0530\", Successes:\"0\", TestCase:\"read_text.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:17:44.748 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 read_text.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 16:17:44.959 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:17:44.595 +0530"
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="read_text_script" package="demo.suite" timestamp="2023-12-06 17:44:25.972 +0530"
+ tests="1"  failures="2" errors="0" time="0.253000">
+  <properties>
+   <property name="RunDate" value="2023-12-06 17:44:25.972 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="read_text.script" assertions="1" status="failure"  time="0.234">
+    <failure type="LogError" message="Text verification failed. Expected: Divyank, Captured: {CaptureDate:&quot;2023-12-06 17:41:17 +0530&quot;, CaptureHost:&quot;192.168.0.85&quot;, CaptureLocation:[4,75], CaptureScreenSize:[&quot;1280&quot;,&quot;1024&quot;], Description:&quot;&quot;, HotSpot:[34,43], ImageLocation:[38,118], ImageName:&quot;Imageclick&quot;, ImagePath:&quot;C:/Users/divyank.gupta/Documents/demo.suite/Images/Imageclick.png&quot;, ImageRectangle:[4,75,73,162], ImageSize:[69,87], ImageTolerance:47, Pulsing:&quot;True&quot;, Scale:1, SearchType:&quot;Smooth and Pulsing&quot;}" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 read_text.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

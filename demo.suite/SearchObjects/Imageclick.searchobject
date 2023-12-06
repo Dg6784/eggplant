@@ -1,0 +1,72 @@
+{
+	"lastmodifieddate": 1701864825.073,
+	"lastfoundlocation": [
+		4,
+		75,
+		69,
+		87
+	],
+	"originalcapturelocation": [
+		4,
+		75,
+		69,
+		87
+	],
+	"createddate": 1701864687.845,
+	"lastfounddate": 1701865093.3839998,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[34,43]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Imageclick.png",
+				"connectionname": "192.168.0.85",
+				"type": 1,
+				"capturerect": [
+					4,
+					75,
+					69,
+					87
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.85"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[34,43]",
+					"Tolerance": "_47",
+					"Discrepancy": "_0",
+					"SearchType": "Smooth and Pulsing"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Imageclick.png",
+				"connectionname": "192.168.0.85",
+				"type": 1,
+				"capturerect": [
+					4,
+					75,
+					69,
+					87
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.85"
+			}
+	],
+	"name": "Imageclick"
+}

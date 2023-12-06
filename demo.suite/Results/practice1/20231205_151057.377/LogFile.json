@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running practice.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 15:10:57.385 +0530"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2023-12-05 15:10:57.822 +0530",
+				"message": "YourTextboxNameYourTextHere",
+				"scriptName": "practice.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"0.454\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-05 15:10:57 +0530\", Successes:\"1\", TestCase:\"practice.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 15:10:57.846 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 practice.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-05 15:10:57.888 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 15:10:57.390 +0530"
+}

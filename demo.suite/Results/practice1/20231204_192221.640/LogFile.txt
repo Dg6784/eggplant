@@ -1,0 +1,4 @@
+﻿2023-12-04 19:22:21.654 +0530	START		Running Untitled.script
+2023-12-04 19:22:58.617 +0530	Exception	image0001.png	Unable To Find Image "image0001.png"	1	on_untitled	Untitled.script
+2023-12-04 19:22:58.690 +0530	EndTestCase		(Duration:"37.028", Errors:"1", Exceptions:"1", StartTime:"2023-12-04 19:22:21 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2023-12-04 19:22:58.705 +0530	ABORTED		Execution Time 0:00:37 Untitled.script

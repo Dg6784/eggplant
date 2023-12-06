@@ -1,0 +1,6 @@
+﻿2023-12-05 17:21:19.875 +0530	START		Running practice.script
+2023-12-05 17:21:20.103 +0530	doubleclick	image0006	at (30, 223)	1	on_practice	practice.script
+2023-12-05 17:21:23.256 +0530	typetext		google.com	4	on_practice	practice.script
+2023-12-05 17:21:46.676 +0530	Exception	PressITabItosearchGoogle	No Image Found On Screen: "PressITabItosearchGoogle"	5	on_practice	practice.script
+2023-12-05 17:21:46.756 +0530	EndTestCase		(Duration:"26.874", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 17:21:19 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 17:21:46.985 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "PressITabItosearchGoogle" -- Execution Time 0:00:26 practice.script

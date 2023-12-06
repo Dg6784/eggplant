@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		509,
+		347,
+		355,
+		43
+	],
+	"lastmodifieddate": 1701772998.2509999,
+	"createddate": 1701754128.013,
+	"name": "RequestOTP",
+	"lastfounddate": 1701754128.098,
+	"ocrcapturestring": "Request OTP",
+	"lastfoundlocation": [
+		509,
+		347,
+		355,
+		43
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[177,21]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "RequestOTP.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"connectionserverid": "192.168.29.13",
+				"capturerect": [
+					509,
+					347,
+					355,
+					43
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Request OTP"
+			}
+	]
+}

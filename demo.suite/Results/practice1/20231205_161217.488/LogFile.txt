@@ -1,0 +1,4 @@
+﻿2023-12-05 16:12:17.499 +0530	START		Running practice.script
+2023-12-05 16:12:39.686 +0530	Exception	image0006	No Image Found On Screen: "image0006"	1	on_practice	practice.script
+2023-12-05 16:12:39.715 +0530	EndTestCase		(Duration:"22.208", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 16:12:17 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 16:12:39.887 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "image0006" -- Execution Time 0:00:22 practice.script

@@ -1,0 +1,5 @@
+﻿2023-12-06 17:39:48.537 +0530	START		Running read_text.script
+2023-12-06 17:39:48.731 +0530	click	Text_verify_newImage	at (38, 115)	1	on_read_text	read_text.script
+2023-12-06 17:39:48.739 +0530	LogError		Text verification failed. Expected: Divyank, Captured: {CaptureDate:"2023-12-06 17:38:23 +0530", CaptureHost:"192.168.0.85", CaptureLocation:[6,83], CaptureScreenSize:["1280","1024"], Description:"", HotSpot:[32,32], ImageLocation:"", ImageName:"Text_verify_newImage", ImagePath:"C:/Users/divyank.gupta/Documents/demo.suite/Images/Text_verify_newImage.png", ImageRectangle:"", ImageSize:[64,64], Pulsing:"False", Scale:1, SearchType:"Tolerant of Background"}	8	on_read_text	read_text.script
+2023-12-06 17:39:48.781 +0530	EndTestCase		(Duration:"0.238", Errors:"1", Exceptions:"0", StartTime:"2023-12-06 17:39:48 +0530", Successes:"0", TestCase:"read_text.script", Warnings:"0")
+2023-12-06 17:39:48.990 +0530	FAILURE	Screen_Error.png	Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 read_text.script

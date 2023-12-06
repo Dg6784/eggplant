@@ -1,0 +1,7 @@
+﻿2023-12-05 16:13:43.179 +0530	START		Running practice.script
+2023-12-05 16:13:43.385 +0530	doubleclick	image0006	at (30, 223)	1	on_practice	practice.script
+2023-12-05 16:13:44.213 +0530	typetext		google.com	2	on_practice	practice.script
+2023-12-05 16:13:44.930 +0530	typetext		[return]	3	on_practice	practice.script
+2023-12-05 16:13:44.942 +0530	Exception	QgooglecomPressITabItosearchGo	Could Not Open Image: QgooglecomPressITabItosearchGo	4	on_practice	practice.script
+2023-12-05 16:13:44.958 +0530	EndTestCase		(Duration:"1.77", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 16:13:43 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 16:13:45.149 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: QgooglecomPressITabItosearchGo -- Execution Time 0:00:01 practice.script

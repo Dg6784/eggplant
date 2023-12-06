@@ -1,0 +1,7 @@
+﻿2023-12-05 18:34:28.849 +0530	START		Running practice.script
+2023-12-05 18:34:29.197 +0530	doubleclick	Edge	at (45, 233)	1	on_practice	practice.script
+2023-12-05 18:34:30.603 +0530	click	searchField.png	at (333, 88)	2	on_practice	practice.script
+2023-12-05 18:34:31.458 +0530	typetext		flipkart.com	3	on_practice	practice.script
+2023-12-05 18:34:32.174 +0530	typetext		[return]	4	on_practice	practice.script
+2023-12-05 18:34:34.192 +0530	EndTestCase		(Duration:"5.339", Errors:"1", Exceptions:"0", StartTime:"2023-12-05 18:34:28 +0530", Successes:"0", TestCase:"practice.script", Warnings:"0")
+2023-12-05 18:34:34.410 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'mousescroll' -- Execution Time 0:00:05 practice.script

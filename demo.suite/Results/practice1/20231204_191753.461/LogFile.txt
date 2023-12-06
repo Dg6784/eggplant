@@ -1,0 +1,4 @@
+﻿2023-12-04 19:17:53.471 +0530	START		Running Untitled.script
+2023-12-04 19:19:12.337 +0530	Exception	micrisoftEdge	Unable To Find Image "micrisoftEdge"	1	on_untitled	Untitled.script
+2023-12-04 19:19:12.428 +0530	EndTestCase		(Duration:"78.95", Errors:"1", Exceptions:"1", StartTime:"2023-12-04 19:17:53 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2023-12-04 19:19:12.441 +0530	ABORTED		Execution Time 0:01:18 Untitled.script

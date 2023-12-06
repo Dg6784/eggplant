@@ -1,0 +1,4 @@
+﻿2023-12-06 17:40:11.972 +0530	START		Running read_text.script
+2023-12-06 17:40:35.454 +0530	Exception	Text_verify_newImage	No Image Found On Screen: "Text_verify_newImage"	1	on_read_text	read_text.script
+2023-12-06 17:40:35.581 +0530	EndTestCase		(Duration:"23.602", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 17:40:11 +0530", Successes:"0", TestCase:"read_text.script", Warnings:"0")
+2023-12-06 17:40:35.822 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Text_verify_newImage" -- Execution Time 0:00:23 read_text.script

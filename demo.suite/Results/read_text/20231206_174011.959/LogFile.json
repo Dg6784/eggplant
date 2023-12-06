@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running read_text.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 17:40:11.972 +0530"
+			},
+		{
+				"handlerName": "on_read_text",
+				"timestamp": "2023-12-06 17:40:35.454 +0530",
+				"scriptName": "read_text.script",
+				"message": "No Image Found On Screen: \"Text_verify_newImage\"",
+				"image": "Text_verify_newImage",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"23.602\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 17:40:11 +0530\", Successes:\"0\", TestCase:\"read_text.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 17:40:35.581 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Text_verify_newImage\" -- Execution Time 0:00:23 read_text.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 17:40:35.822 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 17:40:11.976 +0530"
+}
