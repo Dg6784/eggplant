@@ -1,0 +1,8 @@
+﻿put the date into currentDate
+put currentDate 
+put currentDate's format 
+put "[year]" into the last 4 characters of currentDate's format
+put currentDate's format 
+put currentDate 
+
+

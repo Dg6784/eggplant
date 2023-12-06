@@ -1,4 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2023-12-06 17:55:44.977 +0530,"Failure",0:00:00,1,0,0,"20231206_175544.977/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
-2023-12-06 17:57:24.089 +0530,"Failure",0:00:00,1,0,0,"20231206_175724.089/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
-2023-12-06 17:58:20.018 +0530,"Failure",0:00:00,1,0,0,"20231206_175820.018/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",0

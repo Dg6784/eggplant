@@ -1,3 +1,0 @@
-﻿2023-12-06 17:57:24.101 +0530	START		Running Add_Vlaue.script
-2023-12-06 17:57:24.262 +0530	EndTestCase		(Duration:"0.152", Errors:"1", Exceptions:"0", StartTime:"2023-12-06 17:57:24 +0530", Successes:"0", TestCase:"Add_Vlaue.script", Warnings:"0")
-2023-12-06 17:57:24.503 +0530	FAILURE	Screen_Error.png	SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got '' and '' -- Execution Time 0:00:00 Add_Vlaue.script
